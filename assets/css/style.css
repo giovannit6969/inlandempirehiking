@@ -1,0 +1,119 @@
+/* body */
+.gioContainer {
+    background-color: white;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.selfieimage {
+    height: 400px;
+    width: 275px;
+    vertical-align: right;
+    transform: translateX(200px)
+}
+
+.Biosec {
+    background-color: grey;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.row {
+    padding-left: 30px;
+}
+
+.Biosec h1 {
+    color: white;
+}
+
+.othersec {
+    background-color: rgb(234, 234, 234);
+    padding: 30px;
+    height: 1250px;
+}
+
+.GTlogo {
+    height: 250px;
+    width: auto;
+    align-content: right;
+    float: right;
+}
+
+.title {
+    font-style: normal;
+    transform: rotate(-90deg);
+    margin-left: -250px;
+
+}
+
+.SubT {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-line: 100px;
+    color: white;
+    text-align: center;
+}
+
+.col1 {
+    float: left;
+    width: 200px;
+}
+
+.col2 {
+    float: left;
+    width: 200px;
+    margin-left: 30px;
+}
+
+.SubT2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-line: 100px;
+    color: black;
+}
+
+.leftsec {
+    color: white;
+    text-align: center;
+}
+
+#Resume {
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 250px;
+}
+
+.CPP {
+    font-style: bold;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.SubTinfo {
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.SubT2info {
+    font-size: 22px;
+}
+
+.SupportSS {
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 15px;
+}
+
+.Lightpaint {
+    height: 150px;
+    width: 150px;
+    float: left;
+    margin-right: 15px
+}
